@@ -29,7 +29,7 @@ a {
 text-decoration: none;
 }
 a:hover {
-  background-color: yellow;
+  background-color: white;
 }
 /* Start main title*/
 .main-title {
@@ -327,7 +327,7 @@ flex: 1;
 @media (max-width: 991px) {
 .landing .text{
 text-align: center;
-margin-top: 222px;
+margin-top: 190px;
 transform: translateY(-50%);
 }}
 .landing .text h1 {
