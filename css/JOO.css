@@ -327,7 +327,7 @@ flex: 1;
 @media (max-width: 991px) {
 .landing .text{
 text-align: center;
-margin-top: 190px;
+margin-top: 120px;
 transform: translateY(-50%);
 }}
 .landing .text h1 {
